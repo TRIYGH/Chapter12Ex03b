@@ -1,0 +1,9 @@
+C:\Users\T.Robert'sLPL\Desktop\trwCh12Ex03\trwCh12Ex03\bin\Debug\trwCh12Ex03.exe.config
+C:\Users\T.Robert'sLPL\Desktop\trwCh12Ex03\trwCh12Ex03\obj\Debug\trwCh12Ex03.csprojResolveAssemblyReference.cache
+C:\Users\T.Robert'sLPL\Desktop\trwCh12Ex03\trwCh12Ex03\obj\Debug\trwCh12Ex03.Form1.resources
+C:\Users\T.Robert'sLPL\Desktop\trwCh12Ex03\trwCh12Ex03\obj\Debug\trwCh12Ex03.Properties.Resources.resources
+C:\Users\T.Robert'sLPL\Desktop\trwCh12Ex03\trwCh12Ex03\obj\Debug\trwCh12Ex03.csproj.GenerateResource.Cache
+C:\Users\T.Robert'sLPL\Desktop\trwCh12Ex03\trwCh12Ex03\bin\Debug\trwCh12Ex03.exe
+C:\Users\T.Robert'sLPL\Desktop\trwCh12Ex03\trwCh12Ex03\bin\Debug\trwCh12Ex03.pdb
+C:\Users\T.Robert'sLPL\Desktop\trwCh12Ex03\trwCh12Ex03\obj\Debug\trwCh12Ex03.exe
+C:\Users\T.Robert'sLPL\Desktop\trwCh12Ex03\trwCh12Ex03\obj\Debug\trwCh12Ex03.pdb
